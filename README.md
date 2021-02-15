@@ -12,14 +12,14 @@ The sale is complete
 ---------------------------------------------------------
 
 + NEW! Firmware (2021 Feb) S9, T9, S17,T19 to S19, S19Pro https://youtu.be/MHJ1ydIA3Go
-+ We only sell this file to 20 people. So far, we know 7 people who have.
++ We only sell this file to 20 people. So far, we know 15 people who have.
 + ASIC-Bitcoin-privatekey-Miner (Solo mining) 
 https://satoshidisk.com/pay/CBgkls
 
 
 
 + NEW! Firmware (2021 Feb) S9, T9, S17, T19 to S19 S19Pro
-+ We only sell this file to 100 people. So far, we know 24 people who have.
++ We only sell this file to 100 people. So far, we know 32 people who have.
 + ASIC-Bitcoin-privatekey-Miner (Privat Pool mining)
 https://satoshidisk.com/pay/CBZ5al
 
