@@ -16,6 +16,7 @@ The sale is complete
 + ASIC-Bitcoin-privatekey-Miner (Solo mining) 
 The sale is complete
 
+---------------------------------------------------------
 
 
 + NEW! Firmware (2021 Feb) S9, T9, S17, T19 to S19 S19Pro
