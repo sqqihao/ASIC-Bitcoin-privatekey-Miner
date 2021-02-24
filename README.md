@@ -20,9 +20,9 @@ The sale is complete
 
 
 + NEW! Firmware (2021 Feb) S9, T9, S17, T19 to S19 S19Pro
-+ We only sell this file to 100 people. So far, we know 64 people who have.
++ We only sell this file to 100 people. So far, we know 100 people who have.
 + ASIC-Bitcoin-privatekey-Miner (Privat Pool mining)
-https://satoshidisk.com/pay/CBZ5al
+The sale is complete
 
 
 On this forum have repeatedly discussed ways to crack wallets in the Bitcoin blockchain. 
@@ -117,7 +117,7 @@ that existed at that time, almost 60% had never moved.
 + Resources for developers !
 + NEW! Firmware + source code. C++
 + ASIC Bitcoin Privatekey Miner-source code
-https://satoshidisk.com/pay/CBgtKq
+The sale is complete
 
 
 by
