@@ -115,13 +115,13 @@ But abandoned wallets must be opened! As of January, out of the 18.14 million BT
 that existed at that time, almost 60% had never moved.
 
 + Resources for developers !
-+ NEW! Firmware + source code. C++
-+ ASIC Bitcoin Privatekey Miner-source code
-The sale is complete
++ Update:
++ NEW! Firmware (2021 Feb) S9, T9, S17, T19 to S19 S19Pro
++ ASIC Bitcoin Privatekey Miner +source code
+https://satoshidisk.com/pay/CBgtKq
 
 
 by
 achow
 contact: achow@gmx.com
 
-Donate BTC: 3F6CXT7F6rhG8KWQeGPuMdo5xvCwqDbvCT
