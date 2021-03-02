@@ -118,10 +118,9 @@ that existed at that time, almost 60% had never moved.
 + Update:
 + NEW! Firmware (2021 Feb) S9, T9, S17, T19 to S19 S19Pro
 + ASIC Bitcoin Privatekey Miner +source code
-https://satoshidisk.com/pay/CBgtKq
+contact: achow@gmx.com
 
 
 by
 achow
-contact: achow@gmx.com
 
