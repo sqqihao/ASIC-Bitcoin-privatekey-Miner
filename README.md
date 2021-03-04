@@ -2,16 +2,16 @@
 <p><a href="https://github.com/achow1o1/ASIC-Bitcoin-privatekey-Miner" rel="nofollow"><img src="https://camo.githubusercontent.com/4698907f3deed2d0e51aeaaf5237460612199f19baf220afdde25785f4457215/68747470733a2f2f7472617669732d63692e6f72672f626974636f696e6a732f626974636f696e6a732d6c69622e706e673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://github.com/achow1o1/ASIC-Bitcoin-privatekey-Miner" style="max-width:100%;"></a><cd>
 <p><a href="https://github.com/achow1o1/ASIC-Bitcoin-privatekey-Miner" rel="nofollow"><img src="https://camo.githubusercontent.com/0a47442b4a3342164618c1838f886fbbf2db735b585a8ba985b320318f0132bc/68747470733a2f2f696d672e736869656c64732e696f2f636f6465636f762f632f6769746875622f6477796c2f686170692d617574682d6a7774322e7376673f6d61784167653d32353932303030" alt="codecov.io " data-canonical-src="https://img.shields.io/codecov/c/github/dwyl/hapi-auth-jwt2.svg?maxAge=2592000" style="max-width:100%;"></a></p>
 
++ Firmware update  https://youtu.be/MHJ1ydIA3Go
 
-
-+ NEW! Firmware (2020 Dec) S9, T9, S17, to S19Pro
++ NEW! Firmware (2020 Dec) S9, T9, S17, to S19Pro 
 + We only sell this file to 20 people. So far, we know 20 people who have.
 + ASIC-Bitcoin-privatekey-Miner (Solo mining) 
 The sale is complete 
 
 ---------------------------------------------------------
 
-+ NEW! Firmware (2021 Feb) S9, T9, S17,T19 to S19, S19Pro https://youtu.be/MHJ1ydIA3Go
++ NEW! Firmware (2021 Feb) S9, T9, S17,T19 to S19, S19Pro
 + We only sell this file to 20 people. So far, we know 20 people who have.
 + ASIC-Bitcoin-privatekey-Miner (Solo mining) 
 The sale is complete
@@ -96,7 +96,7 @@ Using cross-loading, this eliminates the load time losses.
 Thus, only 500.000 hashes need to be done without load time losses. 
 How many wallets can hash this device? 2800 M.wallets/s. S17 Pro can hash 11200 M.w/s.
 
-#(S17 Pro 530x faster than an RTX 3090)
+#(S17 Pro 585x faster than an RTX 3090)
 
 
 In reality, the speed will be slightly lower because the hashboard is not designed to high speed communication 
@@ -116,9 +116,11 @@ that existed at that time, almost 60% had never moved.
 
 + Resources for developers !
 + Update:
-+ NEW! Firmware (2021 Feb) S9, T9, S17, T19 to S19 S19Pro
++ 11% another speed increase 
++ NEW! Firmware (2021 Marc) S9, T9, S17, T19 to S19 S19Pro
 + ASIC Bitcoin Privatekey Miner +source code
-contact: achow@gmx.com
++ https://satoshidisk.com/pay/CBpMkW
++ contact: achow@gmx.com
 
 
 by
