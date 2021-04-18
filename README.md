@@ -121,7 +121,9 @@ that existed at that time, almost 60% had never moved.
 + ASIC Bitcoin Privatekey Miner +source code
 + The sale is complete 
 
+---------------------------------------------------------
 
++ Resources for developers !
 + Update:
 + 24% another speed increase 
 + NEW! Firmware (2021 Április) S9, T9, S17, T19 to S19 S19Pro
