@@ -119,9 +119,15 @@ that existed at that time, almost 60% had never moved.
 + 11% another speed increase 
 + NEW! Firmware (2021 Marc) S9, T9, S17, T19 to S19 S19Pro
 + ASIC Bitcoin Privatekey Miner +source code
-+ https://satoshidisk.com/pay/CBpMkW
+The sale is complete 
 
++ Update:
++ 24% another speed increase 
++ NEW! Firmware (2021 Április) S9, T9, S17, T19 to S19 S19Pro
++ ASIC Bitcoin Privatekey Miner +source code
++ https://satoshidisk.com/pay/CCFMnA
 + Tutorial PDF & SETTING UP Included in .ZIP file
++ 
 + If you have any questions, write an Email: 
 + contact: achow@gmx.com
 
