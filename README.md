@@ -6,14 +6,14 @@
 
 + NEW! Firmware (2020 Dec) S9, T9, S17, to S19Pro 
 + We only sell this file to 20 people. So far, we know 20 people who have.
-+ ASIC-Bitcoin-privatekey-Miner (Solo mining) 
++ ASIC-Bitcoin-privatekey-Miner
 The sale is complete 
 
 ---------------------------------------------------------
 
 + NEW! Firmware (2021 Feb) S9, T9, S17,T19 to S19, S19Pro
 + We only sell this file to 20 people. So far, we know 20 people who have.
-+ ASIC-Bitcoin-privatekey-Miner (Solo mining) 
++ ASIC-Bitcoin-privatekey-Miner
 The sale is complete
 
 ---------------------------------------------------------
@@ -21,9 +21,18 @@ The sale is complete
 
 + NEW! Firmware (2021 Feb) S9, T9, S17, T19 to S19 S19Pro
 + We only sell this file to 100 people. So far, we know 100 people who have.
-+ ASIC-Bitcoin-privatekey-Miner (Privat Pool mining)
++ ASIC-Bitcoin-privatekey-Miner
 The sale is complete
 
+---------------------------------------------------------
+
++ NEW! Firmware !!!
++ Bitmain Antminer E3
++ 265% another speed increase (64x RTX-3090)
++ Antminer E3 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
++ https://satoshidisk.com/pay/CCIa8Y
++ Tutorial PDF & SETTING UP Included in .ZIP file
++ We only sell this file to 50 people. So far, we know 3 people who have.
 
 On this forum have repeatedly discussed ways to crack wallets in the Bitcoin blockchain. 
 Typical hacking methods are key enumeration (LBC https://lbc.cryptoguru.org/about) and dictionary attack / brain wallets (https://eli5.eu/brainwallet/).
@@ -115,20 +124,28 @@ But abandoned wallets must be opened! As of January, out of the 18.14 million BT
 that existed at that time, almost 60% had never moved.
 
 + Resources for developers !
-+ Update:
++ Update:1
 + 11% another speed increase 
 + NEW! Firmware (2021 Marc) S9, T9, S17, T19 to S19 S19Pro
-+ ASIC Bitcoin Privatekey Miner +source code
 + The sale is complete 
 
 ---------------------------------------------------------
 
 + Resources for developers !
-+ Update:
++ Update:2
 + 24% another speed increase 
 + NEW! Firmware (2021 Április) S9, T9, S17, T19 to S19 S19Pro
 + ASIC Bitcoin Privatekey Miner +source code
 + https://satoshidisk.com/pay/CCFMnA
++ Tutorial PDF & SETTING UP Included in .ZIP file
+
+--------------------------------------------------------
+
++ NEW! Firmware !!!
++ Bitmain Antminer E3
++ 265% another speed increase (64x RTX-3090)
++ Antminer E3 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
++ https://satoshidisk.com/pay/CCIa8Y
 + Tutorial PDF & SETTING UP Included in .ZIP file
 
 + If you have any questions, write an Email: 
