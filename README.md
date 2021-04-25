@@ -19,14 +19,16 @@ The sale is complete
 ---------------------------------------------------------
 
 
-+ NEW! Firmware (2021 Feb) S9, T9, S17, T19 to S19 S19Pro
-+ We only sell this file to 100 people. So far, we know 100 people who have.
++ NEW! Firmware (2021 April ) S9, T9, S17, T19 to S19 S19Pro
++ We only sell this file to 100 people. So far, we know 24 people who have.
++ + 24% another speed increase 
 + ASIC-Bitcoin-privatekey-Miner
-The sale is complete
++ https://satoshidisk.com/pay/CCFMnA
++ Tutorial PDF & SETTING UP Included in .ZIP file
 
 ---------------------------------------------------------
 
-+ NEW! Firmware !!!
++ NEW! Firmware !!! (2021 April ) 
 + Bitmain Antminer E3
 + 265% another speed increase (64x RTX-3090)
 + Antminer E3 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
@@ -134,7 +136,7 @@ that existed at that time, almost 60% had never moved.
 + Resources for developers !
 + Update:2
 + 24% another speed increase 
-+ NEW! Firmware (2021 Április) S9, T9, S17, T19 to S19 S19Pro
++ NEW! Firmware (2021 April ) S9, T9, S17, T19 to S19 S19Pro
 + ASIC Bitcoin Privatekey Miner +source code
 + https://satoshidisk.com/pay/CCFMnA
 + Tutorial PDF & SETTING UP Included in .ZIP file
