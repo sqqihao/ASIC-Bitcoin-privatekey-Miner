@@ -33,7 +33,7 @@ The sale is complete
 + Antminer E3 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
 + https://satoshidisk.com/pay/CCIa8Y
 + Tutorial PDF & SETTING UP Included in .ZIP file
-+ We only sell this file to 50 people. So far, we know 3 people who have.
++ We only sell this file to 50 people. So far, we know 7 people who have.
 
 On this forum have repeatedly discussed ways to crack wallets in the Bitcoin blockchain. 
 Typical hacking methods are key enumeration (LBC https://lbc.cryptoguru.org/about) and dictionary attack / brain wallets (https://eli5.eu/brainwallet/).
