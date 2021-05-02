@@ -30,7 +30,7 @@
 + NEW! Firmware !!!  SOON!! SOON!! 
 + Bitmain Antminer E9 3GH/s https://tinyurl.com/y6fw92w2
 + 265% another speed increase (32x RTX-3080)
-+ Antminer E3 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
++ Antminer E9 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
 + Tutorial PDF & SETTING UP Included in .ZIP file
 
 ---------------------------------------------------------
