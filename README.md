@@ -6,20 +6,20 @@
 + NEW! Firmware (2020 Dec) S9, T9, S17, to S19Pro 
 + We only sell this file to 20 people. So far, we know 20 people who have.
 + ASIC-Bitcoin-privatekey-Miner
-The sale is complete 
++ The sale is complete 
 
 ---------------------------------------------------------
-
++ Update 1.
 + NEW! Firmware (2021 Feb) S9, T9, S17,T19 to S19, S19Pro
 + We only sell this file to 20 people. So far, we know 20 people who have.
 + ASIC-Bitcoin-privatekey-Miner
-The sale is complete
++ The sale is complete
 
 ---------------------------------------------------------
 
-
++ Update 2.
 + NEW! Firmware (2021 April ) S9, T9, S17, T19 to S19 S19Pro
-+ We only sell this file to 100 people. So far, we know 39 people who have.
++ We only sell this file to 100 people. So far, we know 41 people who have.
 + + 24% another speed increase 
 + ASIC-Bitcoin-privatekey-Miner
 + https://satoshidisk.com/pay/CCFMnA
@@ -32,7 +32,7 @@ The sale is complete
 + 265% another speed increase (32x RTX-3080)
 + Antminer E3 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
 + Tutorial PDF & SETTING UP Included in .ZIP file
-+ 
+
 ---------------------------------------------------------
 
 On this forum have repeatedly discussed ways to crack wallets in the Bitcoin blockchain. 
@@ -124,23 +124,14 @@ If you have savings on old wallets (created until mid 2012 or started from "1"),
 But abandoned wallets must be opened! As of January, out of the 18.14 million BTC 
 that existed at that time, almost 60% had never moved.
 
-+ Resources for developers !
-+ Update:1
-+ 11% another speed increase 
-+ NEW! Firmware (2021 Marc) S9, T9, S17, T19 to S19 S19Pro
-+ The sale is complete 
-
----------------------------------------------------------
-
-+ Resources for developers !
-+ Update:2
-+ 24% another speed increase 
-+ NEW! Firmware (2021 April ) S9, T9, S17, T19 to S19 S19Pro
-+ ASIC Bitcoin Privatekey Miner +source code
-+ https://satoshidisk.com/pay/CCFMnA
-+ Tutorial PDF & SETTING UP Included in .ZIP file
-
 --------------------------------------------------------
+
++ Resources for developers programmers, and software engineers !
++ ASIC Bitcoin Privatekey Miner Source Code !!
++ Support by email
++ Tutorial PDF & SETTING UP Included in .ZIP file
++ 30-day money back guarantee
++ https://satoshidisk.com/pay/CCLsLW
 
 
 + If you have any questions, write an Email: 
