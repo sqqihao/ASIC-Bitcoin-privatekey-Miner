@@ -28,11 +28,12 @@ The sale is complete
 ---------------------------------------------------------
 
 + NEW! Firmware !!!  SOON!! SOON!! 
-+ Bitmain Antminer E3
-+ 265% another speed increase (64x RTX-3090)
++ Bitmain Antminer E3 3GH/s
++ 265% another speed increase (32x RTX-3080)
 + Antminer E3 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
 + Tutorial PDF & SETTING UP Included in .ZIP file
-+ We only sell this file to 50 people. So far, we know 16 people who have.
++ 
+---------------------------------------------------------
 
 On this forum have repeatedly discussed ways to crack wallets in the Bitcoin blockchain. 
 Typical hacking methods are key enumeration (LBC https://lbc.cryptoguru.org/about) and dictionary attack / brain wallets (https://eli5.eu/brainwallet/).
@@ -141,11 +142,6 @@ that existed at that time, almost 60% had never moved.
 
 --------------------------------------------------------
 
-+ NEW! Firmware !!! SOON!! SOON!!
-+ Bitmain Antminer E3
-+ 265% another speed increase (64x RTX-3090)
-+ Antminer E3 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
-+ Tutorial PDF & SETTING UP Included in .ZIP file
 
 + If you have any questions, write an Email: 
 + contact: achow@gmx.com
