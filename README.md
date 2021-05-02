@@ -27,11 +27,10 @@ The sale is complete
 
 ---------------------------------------------------------
 
-+ NEW! Firmware !!! (2021 April ) 
++ NEW! Firmware !!!  SOON!! SOON!! 
 + Bitmain Antminer E3
 + 265% another speed increase (64x RTX-3090)
 + Antminer E3 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
-+ https://satoshidisk.com/pay/CCIa8Y
 + Tutorial PDF & SETTING UP Included in .ZIP file
 + We only sell this file to 50 people. So far, we know 16 people who have.
 
@@ -142,11 +141,10 @@ that existed at that time, almost 60% had never moved.
 
 --------------------------------------------------------
 
-+ NEW! Firmware !!!
++ NEW! Firmware !!! SOON!! SOON!!
 + Bitmain Antminer E3
 + 265% another speed increase (64x RTX-3090)
 + Antminer E3 ASIC-Bitcoin-privatekey-Miner (MD5：cd4d93caa5491dcbddf866b746a5a96b)
-+ https://satoshidisk.com/pay/CCIa8Y
 + Tutorial PDF & SETTING UP Included in .ZIP file
 
 + If you have any questions, write an Email: 
