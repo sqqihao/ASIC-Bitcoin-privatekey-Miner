@@ -19,7 +19,7 @@
 
 + Update 2.
 + NEW! Firmware (2021 April ) S9, T9, S17, T19 to S19 S19Pro
-+ We only sell this file to 100 people. So far, we know 69 people who have.
++ We only sell this file to 100 people. So far, we know 73 people who have.
 + + 24% another speed increase 
 + ASIC-Bitcoin-privatekey-Miner
 + https://satoshidisk.com/pay/CCFMnA
